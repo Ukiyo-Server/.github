@@ -1,12 +1,23 @@
-# Welcome to Ukiyo | 浮世
-Our Japanese language learning server! Dissatisfied with existing options, we've created a unique space that embodies stability, reliability, and a warm, comforting environment. Immerse yourself in our calming atmosphere, where relaxation and focus coexist. Our energetic community fosters creativity and passion for language exchange, while promoting a sense of calmness and familiarity. With carefully curated resources and engaging activities, we provide a supportive and inclusive platform for learners of all levels. Join us today and experience a Japanese server like no other, where your language learning journey is elevated by a genuine sense of belonging and growth.
-<!--
+# About Ukiyo
 
-**Here are some ideas to get you started:**
+Welcome to Ukiyo! 🌸 The vibrant Japanese-English exchange community! We created Ukiyo with a vision to provide a unique and fulfilling language learning experience. Dissatisfied with existing options, we have crafted a server that represents stability, reliability, and a warm, comforting environment. 🌟
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Purpose
+
+At Ukiyo, we believe in fostering a sense of relaxation and familiarity while promoting an energetic and creative atmosphere. Our community is dedicated to connecting language enthusiasts from diverse backgrounds, facilitating cultural exchange, and nurturing friendships that transcend borders. 🌍✨
+
+## What We Offer
+
+- **Supportive Environment** 🤝: We prioritize creating a safe and inclusive space where all members can feel welcomed and valued. Expect a friendly and supportive community where your language learning journey can flourish.
+
+- **Curated Resources** 📚: Explore our carefully selected language resources, study materials, and tools to enhance your Japanese and English learning. From grammar guides to vocabulary resources, we've got you covered.
+
+- **Engaging Activities** 🎉: Participate in our interactive activities, language challenges, and discussions to practice your language skills, connect with fellow learners, and broaden your cultural knowledge.
+
+- **Passion for Language Exchange** 💬: Immerse yourself in our community of passionate language learners who share a love for Japanese and English. Engage in conversations, exchange insights, and grow together as you navigate the exciting world of language acquisition.
+
+## Join Ukiyo Today!
+
+We invite you to join Ukiyo and experience a Japanese server like no other. Let us guide you on your language learning journey, surrounded by a supportive and energetic community that values your growth and cultural exploration. Together, we'll embark on an enriching adventure that transcends borders and opens doors to new opportunities. 🚀🌈
+
+[Join us now](https://discord.gg/a8fMJJmrsj) and be a part of Ukiyo, where language fluency and cultural connections thrive! 🌟🗺️
