@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0BGCE4)
+
 # About Ukiyo
 
 Welcome to Ukiyo! 🌸 The vibrant Japanese-English exchange community! We created Ukiyo with a vision to provide a unique and fulfilling language learning experience. Dissatisfied with existing options, we have crafted a server that represents stability, reliability, and a warm, comforting environment. 🌟
